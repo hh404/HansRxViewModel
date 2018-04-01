@@ -1,0 +1,6 @@
+framework module Pods_HansRxViewModelUITests {
+  umbrella header "Pods-HansRxViewModelUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
